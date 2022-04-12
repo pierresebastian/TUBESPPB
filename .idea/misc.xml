@@ -3,6 +3,27 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TUBESPPB/app/src/main/res/layout/activity_about_us.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TUBESPPB/app/src/main/res/layout/activity_accessories.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TUBESPPB/app/src/main/res/layout/activity_archive.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TUBESPPB/app/src/main/res/layout/activity_bottom.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TUBESPPB/app/src/main/res/layout/activity_item.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TUBESPPB/app/src/main/res/layout/activity_main.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TUBESPPB/app/src/main/res/layout/activity_main_menu.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TUBESPPB/app/src/main/res/layout/activity_my_account.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TUBESPPB/app/src/main/res/layout/activity_outwear.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TUBESPPB/app/src/main/res/layout/activity_product.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TUBESPPB/app/src/main/res/layout/activity_sign_in.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TUBESPPB/app/src/main/res/layout/activity_sign_up.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TUBESPPB/app/src/main/res/layout/activity_splash.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TUBESPPB/app/src/main/res/layout/activity_wishlist.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TUBESPPB/app/src/main/res/layout/adapter_layout.xml" value="0.11302083333333333" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TUBESPPB/app/src/main/res/layout/adapter_product.xml" value="0.13405797101449277" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TUBESPPB/app/src/main/res/layout/app_archive_bar.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TUBESPPB/app/src/main/res/layout/app_bar.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TUBESPPB/app/src/main/res/layout/app_main_bar.xml" value="0.22826086956521738" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TUBESPPB/app/src/main/res/layout/detail_product.xml" value="0.1" />
+        <entry key="..\:/Users/ASUS/AndroidStudioProjects/TUBESPPB/app/src/main/res/layout/fragment_side_nav.xml" value="0.22826086956521738" />
         <entry key="..\:/Users/Aspire/AndroidStudioProjects/PEACEMINUSONE2/app/src/main/res/layout/accessories_activity.xml" value="0.225" />
         <entry key="..\:/Users/Aspire/AndroidStudioProjects/PEACEMINUSONE2/app/src/main/res/layout/activity_about_us.xml" value="0.33" />
         <entry key="..\:/Users/Aspire/AndroidStudioProjects/PEACEMINUSONE2/app/src/main/res/layout/activity_accessories.xml" value="0.11041666666666666" />
